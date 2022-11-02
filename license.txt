@@ -1,5 +1,7 @@
 MIT License
 
+<<<<<<< HEAD
+=======
 Copyright (c) 2022 Stanislav Kovalenko
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,3 +21,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+>>>>>>> b0a40888e6e1466c730c35a340a7a0f5fbf9c6c8
